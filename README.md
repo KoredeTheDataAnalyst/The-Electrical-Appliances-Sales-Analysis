@@ -32,7 +32,8 @@ This project focuses on building a sales analysis dashboard for **Electrical App
 
 ## Purpose of the Dashboard
 
-_Provide a **High_level of overview** of Electrical appliance sales,products and reqions 
+_Provide a **High_level of overview** of Electrical appliance sales,products and reqions.
+
 _ Supports **Data_driven decision making** to improve sales
 
 ## key Insights
