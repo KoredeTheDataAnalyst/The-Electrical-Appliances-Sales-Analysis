@@ -75,7 +75,7 @@ The dataset includes:
 ----
 
   ## Dashboard Preview
-  [Electrical Sale Dashboard](salesdashboard.png)
+  ![Electrical Sale Dashboard](salesdashboard.png)
 
   ---
 
