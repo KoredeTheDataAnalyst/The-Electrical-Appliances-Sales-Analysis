@@ -73,7 +73,7 @@ The dataset includes:
 - `Customer ID
 
   ## Dashboard Preview
-  [Electrical Sale Dashboard](dashboard.png)
+  [Electrical Sale Dashboard](dashboard.PNG)
 
   ## Summary and Recommendation
   
