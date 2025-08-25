@@ -78,8 +78,6 @@ The dataset includes:
 ![Dashboard Screenshot](dash.PNG)
 
 
-  ---
-
   ## Summary and Recommendation
   
   Summary:
