@@ -72,8 +72,12 @@ The dataset includes:
 - `Store Location / Region`  
 - `Customer ID
 
+----
+
   ## Dashboard Preview
-  [Electrical Sale Dashboard](dashboard.PNG)
+  [Electrical Sale Dashboard](salesdashboard.png)
+
+  ---
 
   ## Summary and Recommendation
   
